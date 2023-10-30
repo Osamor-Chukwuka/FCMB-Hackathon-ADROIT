@@ -3,6 +3,7 @@
 OUR NAME IS ADROIT, AND THIS IS OUR PROJECT FOR THE FCMB HACKATHON 2023
 
 TECHNOLOGIES USED: PHP, Laravel, Bootstrap, etc...
+
 NOTE: Please make sure your laptop theme is set to light theme, the design for the dark theme is not done yet
 
 HOW TO RUN THE PROJECT
